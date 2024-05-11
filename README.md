@@ -2,4 +2,4 @@
 
 Используется алгоритм луна для проверки работоспособности карты + добавляется СVV и ДАТА.
 
-![Uploading bc12206d77be93f6e76dbf7b41bb1707.gif…]()
+![xfPBhX7JTzs](https://github.com/qiyanaitsme/QIYANASRANDOMCARDGEN/assets/60918217/6a84c719-a5df-4bd8-9a25-7ff50da415ae)
